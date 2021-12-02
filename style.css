@@ -6,6 +6,26 @@ th {
     text-align: left;
 }
 
+td {
+color:rgb(255, 255, 255);
+-webkit-text-stroke: 1px #000;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    -webkit-text-stroke: 1px #000;
+}
+
 table, th, td {
     border: 15px solid rgba(255, 8, 8, 0.356);
     border-collapse: collapse;
@@ -14,6 +34,9 @@ table, th, td {
     background-color: rgba(238, 82, 82, 0.062);
 }
 
-table {
-    background-image: url(/img/Thumbnail.png);
+body {
+    background-image: url(Thumbnail.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
