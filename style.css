@@ -1,5 +1,20 @@
-table {
-    width: 400px;
+body {
+    background-image: url(/img/Thumbnail.png);
 }
 
-th 
+table {
+    width: 900px;
+}
+
+th {
+    text-align: left;
+}
+
+table, th, td {
+    border: 15px solid rgba(255, 8, 8, 0.356);
+    border-collapse: collapse;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(238, 82, 82, 0.062);
+}
+
