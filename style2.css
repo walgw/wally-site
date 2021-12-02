@@ -17,7 +17,6 @@ h1 {
     font-style: italic;
 }
 
-
 p {
     font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -37,8 +36,7 @@ table, th, td {
 }
 
 body {
-    background-image: url(Thumbnail.png);
+    background-image: url(Thumbnail2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
