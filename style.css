@@ -14,6 +14,6 @@ table, th, td {
     background-color: rgba(238, 82, 82, 0.062);
 }
 
-body {
+table {
     background-image: url(/img/Thumbnail.png);
 }
